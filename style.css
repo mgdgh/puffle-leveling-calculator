@@ -43,7 +43,7 @@ p {
             rgba(0, 0, 0, 0.8) 45%,
             transparent 75%
         ), 
-        url("/PH_Giveaway_Background_photo.png");
+        url("PH_Giveaway_Background_photo.png");
     background-size: cover;
     background-position: 50% 15%;
     border-radius: 10px;
