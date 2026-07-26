@@ -64,6 +64,10 @@ label {
     text-shadow: 0 2px #000;
 }
 
+span {
+    text-shadow: 0 0 #000;
+}
+
 .time-per-attempt, .levels {
     display: flex;
     align-items: center;
