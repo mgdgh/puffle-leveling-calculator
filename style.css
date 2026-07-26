@@ -202,7 +202,15 @@ button:hover {
     background-color: #0056b3;
 }
 
-@media screen and (min-width: 1200px) and (max-width: 1400px) {
+@media screen and (min-width: 1440px) and (max-width: 1700px) {
+    
+    .container {
+        width: 60dvw;
+    }
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1439px) {
     
     .container {
         width: 70dvw;
